@@ -1,6 +1,6 @@
 # react-native-discord-bar
 
-A simple to use React Native Drag & Drop component like Discord Server Bar.
+A simple to use React Native Drag & Drop component like Discord Server Bar using react-native-draggable-grid & react-native-animatable.
 
 ## Installation
 
